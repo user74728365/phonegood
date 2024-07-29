@@ -3,16 +3,13 @@
  */
 
 .header {
-  box-sizing: border-box;
-  font-size: 16px;
-  height: 85px;
+
   line-height: 40px;
-  padding: 20px 5px 0px 20px; /* TRouBLe */
+ 
   position: fixed;
   width: 100%;
-  z-index: 1000;
-  margin: 0;
-  border-bottom: 5px solid #00a7e9;
+  
+  border-bottom: 3px solid #FFDF00;
 }
 
 .header h1 {
