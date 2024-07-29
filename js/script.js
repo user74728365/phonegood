@@ -270,7 +270,7 @@ let panels = {
       return numeral(value).format('0.00') + ' hPA';
     },
   },
-  /*
+  
   tone: {
     serviceId: '0c00',
     characteristicId: '0c01',
@@ -308,7 +308,6 @@ let panels = {
       return numeral(value).format('0.00') + ' rad';
     },
   },
-  */
 };
 
 function playSound(frequency, duration, callback) {
