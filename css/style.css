@@ -106,7 +106,6 @@ div.clear {
 }
 
 .subheader {
-  height: 100px;
   line-height: 100px;
   padding-left: 10px;
   padding-right: 10px;
@@ -131,7 +130,6 @@ div.clear {
 #dashboard > div {
   width: 244px;
   height: 244px;
-  margin: 0 10px 20px;
   border-width: 1px;
   border-style: solid;
   border-radius: 4px;
